@@ -9,7 +9,7 @@ Báo cáo trải nghiệm người dùng Chrome cung cấp chỉ số trải ngh
 
 ## Phương pháp luận 
 
-Báo cáo trải nghiệm người dùng Chrome được hỗ trợ bởi việc đo lường số liệu trải nghiệm người dùng chính trên web công cộng, được tổng hợp từ những người dùng đã chọn tham gia đồng bộ hóa lịch sử duyệt web của họ, chưa thiết lập cụm mật khẩu đồng bộ hóa và có [báo cáo thống kê sử dụng] [2] được bật. Dữ liệu kết quả được cung cấp qua:
+Báo cáo trải nghiệm người dùng Chrome được hỗ trợ bởi việc đo lường số liệu trải nghiệm người dùng chính trên web công cộng, được tổng hợp từ những người dùng đã chọn tham gia đồng bộ hóa lịch sử duyệt web của họ, chưa thiết lập cụm mật khẩu đồng bộ hóa và có bật [báo cáo thống kê sử dụng][2]. Dữ liệu kết quả được cung cấp qua:
 
 1. [PageSpeed Insights][3], cung cấp chỉ số trải nghiệm người dùng cấp URL cho các URL phổ biến được trình thu thập dữ liệu web của Google biết đến.
 2. [Public Google BigQuery project][4], tổng hợp các chỉ số trải nghiệm người dùng theo nguồn, tất cả các nguồn được trình thu thập dữ liệu web của Google biết và chia nhỏ trên nhiều khía cạnh được nêu bên dưới.
